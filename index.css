@@ -1,0 +1,9 @@
+body {
+    background: maroon;
+}
+
+img {
+    width: 450px;
+    height: 450px;
+    border-radius: 5px;
+}
